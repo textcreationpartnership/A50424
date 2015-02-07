@@ -176,12 +176,23 @@ Solid, the Content of that Solid is known.</p>
                      <div type="subpart">
                         <head>The Rule is:</head>
                         <p>Multiply the length by the breadth, and the Product divide by 282 (the number of solid Inches contained in the Ale Gallon) and the Quotient is the Ale Gallons contained upon one Inch in depth of that Back or Tun.</p>
-                        <figure>
-                           <head>A Square.</head>
-                        </figure>
-                        <figure>
-                           <head>An Oblong or Parallelogram.</head>
-                        </figure>
+                        <p>
+                           <figure>
+                              <head>A Square.</head>
+                           </figure>
+                           <pb n="4" facs="tcp:50132:7"/>
+                           <gap reason="math">
+                              <desc>〈 math 〉</desc>
+                           </gap>
+                        </p>
+                        <p>
+                           <figure>
+                              <head>An Oblong or Parallelogram.</head>
+                           </figure>
+                           <gap reason="math">
+                              <desc>〈 math 〉</desc>
+                           </gap>
+                        </p>
                         <p>
                            <pb n="5" facs="tcp:50132:7"/>One contains 10 Gallons, and 205/282 parts of a Gallon; the other 21 Gal<g ref="char:EOLhyphen"/>lons and 128/282 of a Gallon. To reduce which Fraction into Pints, you need only multiply the Remainder or Nu<g ref="char:EOLhyphen"/>merator by 8, and divide by the old Divisor, and the Quote will be the Pints contained in that Fraction.</p>
                      </div>
@@ -195,7 +206,12 @@ Solid, the Content of that Solid is known.</p>
                            <pb n="6" facs="tcp:50132:8"/>
                            <hi>Example.</hi>
                         </p>
-                        <figure/>
+                        <p>
+                           <figure/>
+                           <gap reason="math">
+                              <desc>〈 math 〉</desc>
+                           </gap>
+                        </p>
                         <p>There is contain'd in the first Inch of this Back or Tun 63 Ale Gallons, 6 Pints, and above an half.</p>
                         <p>
                            <pb n="7" facs="tcp:50132:8"/>But admitting the Back or Tun be of an irregular Form, divide it into Triangles, and let fall Perpendiculars in each, and find their several Area's, as in the last Example, then add them together, and you have the Content or Area of the whole Figure.</p>
@@ -293,7 +309,10 @@ Inches, his business being to find the Gallons the shortest way he can: In order
                         <p>The Content of this Tun in Beer Mea<g ref="char:EOLhyphen"/>sure.</p>
                         <p>But if your round Tun have un<g ref="char:EOLhyphen"/>equal Dimensions above and below, it is then taken to be the part of a Cone or round Pyramid, having the top cut off as the following Diagram; the whole Cone = <hi>abcdefg,</hi> the part or Frustum = <hi>abcdeg.</hi>
                         </p>
-                        <figure/>
+                        <p>
+                           <pb n="17" facs="tcp:50132:13"/>
+                           <figure/>
+                        </p>
                         <p>Having the two Diameters and Depth of the Tun, to produce the whole Cone the Rule is by Proportion thus:</p>
                         <p>
                            <hi>As the Semidifference of Diameters is to half the Diameter at the Base: So is the height of the Frustum to the Cones whole Axis.</hi>
@@ -338,7 +357,12 @@ Inches, his business being to find the Gallons the shortest way he can: In order
                         <p>
                            <hi>Example.</hi>
                         </p>
-                        <figure/>
+                        <p>
+                           <figure/> 
+                           <gap reason="math">
+                              <desc>〈 math 〉</desc>
+                           </gap>
+                        </p>
                         <p>
                            <pb n="22" facs="tcp:50132:16"/>All these Mean Diameters cut this Tun into so many Cylinders.</p>
                         <p>
